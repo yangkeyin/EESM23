@@ -1,0 +1,14 @@
+name	type	units
+EOGr	EOG	uV
+EOGl	EOG	uV
+EMGl	EMG	uV
+EMGr	EMG	uV
+M1	EEG	uV
+F3	EEG	uV
+C3	EEG	uV
+O1	EEG	uV
+M2	EEG	uV
+F4	EEG	uV
+C4	EEG	uV
+O2	EEG	uV
+EMGc	EMG	uV

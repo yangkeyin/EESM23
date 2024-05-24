@@ -1,0 +1,14 @@
+{
+    "TaskName": "sleep",
+    "EEGReference": "average",
+    "SamplingFrequency": 250,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "TriggerChannelCount": 1,
+    "RecordingDuration": 22028.204,
+    "EEGPlacementScheme": "ear-EEG",
+    "TaskDescription": "sleep",
+    "InstitutionName": "Aarhus University",
+    "InstitutionAddress": "Finlandsgade 22, 8200 Aarhus N",
+    "InstitutionalDepartmentName": "Department of Engineering"
+}

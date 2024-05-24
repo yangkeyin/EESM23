@@ -1,0 +1,5 @@
+name	type	units
+RB	EEG	uV
+RT	EEG	uV
+LB	EEG	uV
+LT	EEG	uV
